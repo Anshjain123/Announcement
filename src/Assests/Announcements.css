@@ -1,0 +1,47 @@
+.d-block{
+    height: 500px;
+    
+}
+.block{
+    margin-left:15%;
+    width: 1000px;
+    padding: 30px;
+    
+}
+.announcements-head{
+    font-size: 2.5rem;
+    font-weight: 400;
+}
+.list{
+    padding-top: 30px;
+    width: 1000px;
+    margin-left: 13%;
+}
+.d-flex:hover{
+    background-color: rgb(183, 190, 197);
+    border-radius: 20px;
+    cursor: pointer;
+
+}
+.announce{
+    margin-right: 800px;
+    
+}
+.color{
+    background-color: #dfe9f7;
+    padding: 50px;
+}
+
+.posture{
+    background-color: #dfe9f7;
+}
+.d-flex{
+    text-decoration: none;
+    background-color: #c7eaff;
+    border-radius: 20px;
+    margin: 10px
+}
+
+Bad{
+    padding:10px;
+}
