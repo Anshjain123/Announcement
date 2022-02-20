@@ -1,10 +1,11 @@
 .d-block{
+    display: flex;
     height: 500px;
     
 }
 .block{
-    margin-left:15%;
-    width: 1000px;
+    margin-left:5%;
+    width: 90%;
     padding: 30px;
     
 }
@@ -14,8 +15,8 @@
 }
 .list{
     padding-top: 30px;
-    width: 1000px;
-    margin-left: 13%;
+    width: auto;
+    margin: 0 13%;
 }
 .d-flex:hover{
     background-color: rgb(183, 190, 197);
@@ -42,6 +43,16 @@
     margin: 10px
 }
 
-Bad{
+.Bad{
     padding:10px;
+}
+.container{
+    display: flex;
+}
+.block-text{
+    display: flex;
+    flex-grow: 1;
+    flex-basis: 500px;
+    justify-content: center;
+    background-color: #f8f8f85d;
 }
