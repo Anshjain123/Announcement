@@ -1,13 +1,12 @@
 .d-block{
     display: flex;
     height: 500px;
-    
+    border-radius: 5px 0 0 5px;
 }
 .block{
     margin-left:5%;
     width: 90%;
     padding: 30px;
-    
 }
 .announcements-head{
     font-size: 2.5rem;
@@ -54,5 +53,6 @@
     flex-grow: 1;
     flex-basis: 500px;
     justify-content: center;
-    background-color: #f8f8f85d;
+    background-color: #f8f8f8;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
 }
